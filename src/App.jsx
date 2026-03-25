@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>¡Hola DevOps! 🚀</h1>
+      <h1>¡Hola Usuario! 🚀</h1>
       <p>Esta app fue desplegada automáticamente con GitHub Actions</p>
       <p>Ingeniería de Software</p>
     </div>
