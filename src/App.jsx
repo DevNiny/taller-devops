@@ -15,6 +15,7 @@ function App() {
           </div>
           
           <h1 className="main-title">
+            Hola DevOps
             Bienvenido a tu
             <span className="gradient-text"> Aplicación DevOps</span>
           </h1>
@@ -32,7 +33,7 @@ function App() {
                 </svg>
               </div>
               <h3>CI/CD Automatizado</h3>
-              <p>Pipeline completamente automático con GitHub Actions</p>
+              <p>Pipeline completamente automático</p>
             </div>
             
             <div className="feature-card">
