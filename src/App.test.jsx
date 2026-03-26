@@ -15,7 +15,7 @@ test('muestra el mensaje de despliegue', () => {
   expect(mensaje).toBeInTheDocument()
 })
 
-// PRUEBA 3: Verifica que el título es un elemento h1
+// PRUEBA: Verifica que el título es un elemento h1
 test('el título principal es un h1', () => {
   render(<App />)
   const h1 = document.querySelector('h1')
